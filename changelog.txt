@@ -1,0 +1,6 @@
+Changelog
+
+current version: 0.0.1
+
+version: 0.0.1
+--> initial release on 1.17 and 1.16 servers
