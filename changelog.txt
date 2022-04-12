@@ -1,9 +1,9 @@
 Changelog
 
-current version: 0.0.2
+current version: 1.0.0
 
 version: 0.0.1
 --> initial construction of add-on
 
-version: 0.0.2
+version: 1.0.0
 --> initial release on 1.17 and 1.16 servers
