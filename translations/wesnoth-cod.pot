@@ -1,0 +1,446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2022-04-12 01:33 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:10
+msgid "Citadel of Drand"
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:12
+msgid "MPPvPCOD"
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:22
+msgid "This is a Player-versus-Player Multiplayer Campaign with the Siege/Assault gameplay mode. Play as either the Attacker or Defender. Attacking Team(s) have to take out the Defending Team(s) objective while the Defending Team(s) have to resist or try for the Attacking Team(s) objective. Available in 1v1, 2v2, 3v3, and 4v4 Modes. After the end of the first scenario, a second scenario begins on the same map, but the roles are reversed. That is, attacking team(s) are now defending team(s) and vice versa."
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:22
+msgid ""
+"\n"
+"(2 scenarios)\n"
+""
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:24
+msgid "Feedback and bug reports: "
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:27
+msgid "Grunt"
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:27
+msgid "Novice"
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:28
+msgid "Warrior"
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:28
+msgid "Challenging"
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:29
+msgid "Warlord"
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:29
+msgid "Nightmare"
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:31
+msgid "The End"
+msgstr ""
+
+#. [about]
+#: Citadel_of_Drand/_main.cfg:36
+msgid "Campaign Designer"
+msgstr ""
+
+#. [about]
+#: Citadel_of_Drand/_main.cfg:44
+msgid "Original Idea"
+msgstr ""
+
+#. [about]
+#: Citadel_of_Drand/_main.cfg:50
+msgid "Conduits"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_1v1
+#: Citadel_of_Drand/scenarios/1v1/01_Citadel_of_Drand.cfg:5
+msgid "Citadel of Drand (1v1)"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_1v1
+#: Citadel_of_Drand/scenarios/1v1/01_Citadel_of_Drand.cfg:11
+msgid "1v1 Mode"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_Reversed_1v1
+#: Citadel_of_Drand/scenarios/1v1/02_Citadel_of_Drand_Reversed.cfg:5
+msgid "Citadel of Drand (Part-2 1v1)"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_2v2
+#: Citadel_of_Drand/scenarios/2v2/01_Citadel_of_Drand.cfg:5
+msgid "Citadel of Drand (2v2)"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_2v2
+#: Citadel_of_Drand/scenarios/2v2/01_Citadel_of_Drand.cfg:11
+msgid "2v2 Mode"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_Reversed_2v2
+#: Citadel_of_Drand/scenarios/2v2/02_Citadel_of_Drand_Reversed.cfg:5
+msgid "Citadel of Drand (Part-2 2v2)"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_3v3
+#: Citadel_of_Drand/scenarios/3v3/01_Citadel_of_Drand.cfg:5
+msgid "Citadel of Drand (3v3)"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_3v3
+#: Citadel_of_Drand/scenarios/3v3/01_Citadel_of_Drand.cfg:11
+msgid "3v3 Mode"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_Reversed_3v3
+#: Citadel_of_Drand/scenarios/3v3/02_Citadel_of_Drand_Reversed.cfg:5
+msgid "Citadel of Drand (Part-2 3v3)"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_4v4
+#: Citadel_of_Drand/scenarios/4v4/01_Citadel_of_Drand.cfg:5
+msgid "Citadel of Drand (4v4)"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_4v4
+#: Citadel_of_Drand/scenarios/4v4/01_Citadel_of_Drand.cfg:11
+msgid "4v4 Mode"
+msgstr ""
+
+#. [scenario]: id=Citadel_of_Drand_Reversed_4v4
+#: Citadel_of_Drand/scenarios/4v4/02_Citadel_of_Drand_Reversed.cfg:5
+msgid "Citadel of Drand (Part-2 4v4)"
+msgstr ""
+
+#. [unit_type]: id=Attacker Conduit, race=mechanical
+#: Citadel_of_Drand/units/conduits/Attacker.cfg:4
+#: Citadel_of_Drand/utils/event-defs.cfg:268
+#: Citadel_of_Drand/utils/event-defs.cfg:270
+#: Citadel_of_Drand/utils/scenario-utils.cfg:157
+#: Citadel_of_Drand/utils/scenario-utils.cfg:162
+msgid "Attacker Conduit"
+msgstr ""
+
+#. [unit_type]: id=Attacker Conduit, race=mechanical
+#. [unit_type]: id=Defender Conduit, race=mechanical
+#: Citadel_of_Drand/units/conduits/Attacker.cfg:44
+#: Citadel_of_Drand/units/conduits/Defender.cfg:44
+msgid "This thing is impossible to describe, no one has seen anything like it before."
+msgstr ""
+
+#. [attack]: type=cold
+#: Citadel_of_Drand/units/conduits/Attacker.cfg:50
+#: Citadel_of_Drand/units/conduits/Defender.cfg:50
+msgid "energy ray"
+msgstr ""
+
+#. [unit_type]: id=Defender Conduit, race=mechanical
+#. [label]
+#: Citadel_of_Drand/units/conduits/Defender.cfg:4
+#: Citadel_of_Drand/utils/event-defs.cfg:326
+#: Citadel_of_Drand/utils/scenario-utils.cfg:152
+msgid "Defender Conduit"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:268
+msgid "Conduit A"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:270
+msgid "Conduit B"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:272
+#: Citadel_of_Drand/utils/event-defs.cfg:296
+#: Citadel_of_Drand/utils/event-defs.cfg:306
+msgid "To NW Base"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:274
+#: Citadel_of_Drand/utils/event-defs.cfg:310
+msgid "To SW Base"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:276
+msgid "Area E"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:278
+msgid "Area D"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:280
+msgid "South-Western Base"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:282
+msgid "North-Western Base"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:284
+msgid "North-Eastern Base"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:286
+msgid "South-Eastern Base"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:288
+msgid "Area F"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:290
+msgid "Area C"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:292
+#: Citadel_of_Drand/utils/event-defs.cfg:304
+#: Citadel_of_Drand/utils/event-defs.cfg:322
+msgid "To NE Base"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:294
+#: Citadel_of_Drand/utils/event-defs.cfg:302
+#: Citadel_of_Drand/utils/event-defs.cfg:308
+#: Citadel_of_Drand/utils/event-defs.cfg:320
+msgid "To SE Base"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:298
+msgid "Shop A"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:300
+msgid "Shop B"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:312
+msgid "Area A"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:314
+msgid "Area G"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:316
+msgid "Area B"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:318
+msgid "Area H"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:331
+msgid "Turn 3: Knalgan Alliance"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:332
+msgid "Turn 7: Undead"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:333
+msgid "Turn 11: Dunefolk"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:334
+msgid "Turn 15: Northerners"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:335
+msgid "Turn 19: Drakes"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:336
+msgid "Turn 23: Rebels"
+msgstr ""
+
+#. [transient_message]
+#: Citadel_of_Drand/utils/event-defs.cfg:914
+#: Citadel_of_Drand/utils/event-defs.cfg:937
+#: Citadel_of_Drand/utils/event-defs.cfg:957
+#: Citadel_of_Drand/utils/event-defs.cfg:981
+#: Citadel_of_Drand/utils/event-defs.cfg:1041
+#: Citadel_of_Drand/utils/event-defs.cfg:1081
+msgid "End Result"
+msgstr ""
+
+#. [transient_message]
+#: Citadel_of_Drand/utils/event-defs.cfg:917
+#: Citadel_of_Drand/utils/event-defs.cfg:940
+#: Citadel_of_Drand/utils/event-defs.cfg:960
+#: Citadel_of_Drand/utils/event-defs.cfg:1044
+msgid "The Defending Team is victorious!"
+msgstr ""
+
+#. [transient_message]
+#: Citadel_of_Drand/utils/event-defs.cfg:984
+#: Citadel_of_Drand/utils/event-defs.cfg:1084
+msgid "The Attacking Team is victorious!"
+msgstr ""
+
+#. [transient_message]
+#: Citadel_of_Drand/utils/event-defs.cfg:1011
+msgid "Update"
+msgstr ""
+
+#. [transient_message]
+#: Citadel_of_Drand/utils/event-defs.cfg:1014
+msgid "Attacker Conduits are now exposed!"
+msgstr ""
+
+#. [transient_message]
+#: Citadel_of_Drand/utils/event-defs.cfg:1033
+#: Citadel_of_Drand/utils/event-defs.cfg:1073
+msgid "Updates"
+msgstr ""
+
+#. [transient_message]
+#: Citadel_of_Drand/utils/event-defs.cfg:1036
+msgid "One of the Attacking Commanders has fallen!"
+msgstr ""
+
+#. [transient_message]
+#: Citadel_of_Drand/utils/event-defs.cfg:1076
+msgid "One of the Defending Commanders has fallen!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Citadel_of_Drand/utils/scenario-utils.cfg:25
+msgid "Destroy the Defending Team Conduit (21,21)"
+msgstr ""
+
+#. [objective]: condition=win
+#: Citadel_of_Drand/utils/scenario-utils.cfg:29
+msgid "Defend your Team's Conduits"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Citadel_of_Drand/utils/scenario-utils.cfg:34
+msgid "Defender Conduit is still standing"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Citadel_of_Drand/utils/scenario-utils.cfg:39
+msgid "One of your Conduits is destroyed"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Citadel_of_Drand/utils/scenario-utils.cfg:43
+msgid "Death of (all) your Team Leader(s)"
+msgstr ""
+
+#. [note]
+#: Citadel_of_Drand/utils/scenario-utils.cfg:48
+msgid "Allied AI units will spawn every 4 turns to Assist"
+msgstr ""
+
+#. [note]
+#: Citadel_of_Drand/utils/scenario-utils.cfg:51
+msgid "First Allied AI wave at turn 3"
+msgstr ""
+
+#. [note]
+#: Citadel_of_Drand/utils/scenario-utils.cfg:54
+msgid "Aggressive tactics are recommended"
+msgstr ""
+
+#. [note]
+#: Citadel_of_Drand/utils/scenario-utils.cfg:57
+msgid "Move to and fro other attacker bases using labelled Tunnels"
+msgstr ""
+
+#. [note]
+#: Citadel_of_Drand/utils/scenario-utils.cfg:60
+msgid "Send your units to battle using Tunnels labelled as Areas"
+msgstr ""
+
+#. [objective]: condition=win
+#: Citadel_of_Drand/utils/scenario-utils.cfg:77
+msgid "Defend your Team's Conduit (21,21)"
+msgstr ""
+
+#. [objective]: condition=win
+#: Citadel_of_Drand/utils/scenario-utils.cfg:82
+msgid "Destroy any of the Opposing Team Conduits"
+msgstr ""
+
+#. [objective]: condition=win
+#: Citadel_of_Drand/utils/scenario-utils.cfg:86
+msgid "Resist until the end of turns"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Citadel_of_Drand/utils/scenario-utils.cfg:91
+msgid "Destruction of Defender Team's Conduit"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Citadel_of_Drand/utils/scenario-utils.cfg:95
+msgid "No Defending Commander(s) left"
+msgstr ""
+
+#. [note]
+#: Citadel_of_Drand/utils/scenario-utils.cfg:99
+msgid "Enemy AI units will spawn every 3 turns."
+msgstr ""
+
+#. [note]
+#: Citadel_of_Drand/utils/scenario-utils.cfg:102
+msgid "Paths to Attacker Conduits will open mid-game."
+msgstr ""
+
+#. [note]
+#: Citadel_of_Drand/utils/scenario-utils.cfg:105
+msgid "Capturing certain villages might give you AI allies."
+msgstr ""
+
+#. [side]
+#: Citadel_of_Drand/utils/side-defs.cfg:29
+#: Citadel_of_Drand/utils/side-defs.cfg:49
+#: Citadel_of_Drand/utils/side-defs.cfg:125
+msgid "Attackers"
+msgstr ""
+
+#. [side]
+#: Citadel_of_Drand/utils/side-defs.cfg:69
+#: Citadel_of_Drand/utils/side-defs.cfg:89
+#: Citadel_of_Drand/utils/side-defs.cfg:148
+msgid "Defenders"
+msgstr ""
+
