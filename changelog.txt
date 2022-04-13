@@ -1,6 +1,8 @@
 Changelog
 
-current version: 1.0.2
+current version: 1.0.3
+
+version 1.0.3
 
 version 1.0.2
 --> Updated Map at certain sections
