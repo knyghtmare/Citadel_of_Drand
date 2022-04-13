@@ -1,6 +1,13 @@
 Changelog
 
-current version: 1.0.1
+current version: 1.0.2
+
+version 1.0.2
+--> Updated Map at certain sections
+    --> Northern cave is more accessible
+    --> Western conduit's path is more accessible
+
+
 
 version: 1.0.1
 --> added a pot file for translators
