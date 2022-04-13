@@ -6,6 +6,7 @@ version 1.0.2
 --> Updated Map at certain sections
     --> Northern cave is more accessible
     --> Western conduit's path is more accessible
+--> Defender Conduit now has enhanced sight which reveals starting area of the defender
 
 
 
