@@ -10,6 +10,7 @@ version 1.0.2
 --> Shroud is disabled for all sides now
 --> More instructions given in scenario objectives
     --> Getting a little crowded in there.
+--> Add more map labels at certain villages
 
 
 
