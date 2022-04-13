@@ -13,9 +13,7 @@ version 1.0.2
 --> Add more map labels at certain villages
 --> Add more variations to the allies defenders can get
     --> depends on team strength
-
-
-
+--> Swap starting positions of players 3 and 5 & 4 and 6
 
 version: 1.0.1
 --> added a pot file for translators
