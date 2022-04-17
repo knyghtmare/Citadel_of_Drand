@@ -5,6 +5,11 @@ current version: 1.0.3
 version 1.0.3
 --> 1v1 Mode: specific
     --> attacker start position is now randomised
+--> all scenarios: added items
+    --> both attackers and defenders get items
+    --> only 2 items for all defending teams
+    --> only 4 items for all attacking teams
+    --> item effects last for a scenario
 
 version 1.0.2
 --> Updated Map at certain sections
