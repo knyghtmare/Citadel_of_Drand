@@ -3,6 +3,8 @@ Changelog
 current version: 1.0.3
 
 version 1.0.3
+--> 1v1 Mode: specific
+    --> attacker start position is now randomised
 
 version 1.0.2
 --> Updated Map at certain sections
