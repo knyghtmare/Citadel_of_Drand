@@ -1,6 +1,9 @@
 Changelog
 
-current version: 1.0.5
+current version: 1.0.6
+
+version 1.0.6
+--> adjust MP settings to allow 4MP leaders to get the quick trait
 
 version 1.0.5
 --> add option choice to get generated name for the leader or restore to player name
