@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-04-12 01:33 UTC\n"
+"POT-Creation-Date: 2022-04-19 01:03 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,63 +29,88 @@ msgstr ""
 #: Citadel_of_Drand/_main.cfg:22
 msgid ""
 "\n"
+"\n"
+"There are three levels of difficulty which determine attacker/defender strengths as well duration of the rounds. That is, Novice rounds are brief and Nightmare rounds are longer."
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:24
+msgid ""
+"\n"
+"\n"
+"Village gold is set to zero for both attackers and defenders. Instead a fixed income is given which varies with difficulty level. Capturing villages only suppresses upkeep and does not allow income to exceed the fixed defined value.\n"
+"\n"
+"Both teams can check the faction of AI waves by a right-click menu option.\n"
+"\n"
+"The second scenario allows recalling of units of the first one, but recall lists have been adjusted for the sake of balancing."
+msgstr ""
+
+#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
+#: Citadel_of_Drand/_main.cfg:30
+msgid ""
+"\n"
 "(2 scenarios)\n"
 ""
 msgstr ""
 
 #. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
-#: Citadel_of_Drand/_main.cfg:24
-msgid "Feedback and bug reports: "
-msgstr ""
-
-#. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
-#: Citadel_of_Drand/_main.cfg:27
+#: Citadel_of_Drand/_main.cfg:37
 msgid "Grunt"
 msgstr ""
 
 #. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
-#: Citadel_of_Drand/_main.cfg:27
+#: Citadel_of_Drand/_main.cfg:37
 msgid "Novice"
 msgstr ""
 
 #. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
-#: Citadel_of_Drand/_main.cfg:28
+#: Citadel_of_Drand/_main.cfg:38
 msgid "Warrior"
 msgstr ""
 
 #. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
-#: Citadel_of_Drand/_main.cfg:28
+#: Citadel_of_Drand/_main.cfg:38
 msgid "Challenging"
 msgstr ""
 
 #. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
-#: Citadel_of_Drand/_main.cfg:29
+#: Citadel_of_Drand/_main.cfg:39
 msgid "Warlord"
 msgstr ""
 
 #. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
-#: Citadel_of_Drand/_main.cfg:29
+#: Citadel_of_Drand/_main.cfg:39
 msgid "Nightmare"
 msgstr ""
 
 #. [campaign]: id=UMC_PvP_MP_Campaign_Citadel_of_Drand, type=mp
-#: Citadel_of_Drand/_main.cfg:31
+#: Citadel_of_Drand/_main.cfg:41
 msgid "The End"
 msgstr ""
 
 #. [about]
-#: Citadel_of_Drand/_main.cfg:36
+#: Citadel_of_Drand/_main.cfg:46
 msgid "Campaign Designer"
 msgstr ""
 
 #. [about]
-#: Citadel_of_Drand/_main.cfg:44
+#: Citadel_of_Drand/_main.cfg:54
 msgid "Original Idea"
 msgstr ""
 
 #. [about]
-#: Citadel_of_Drand/_main.cfg:50
+#: Citadel_of_Drand/_main.cfg:60
 msgid "Conduits"
+msgstr ""
+
+#. [checkbox]: id=knyght_citadel_of_drand_restore_leader_names
+#: Citadel_of_Drand/options.cfg:6
+msgid "Player Leader Names"
+msgstr ""
+
+#. [checkbox]: id=knyght_citadel_of_drand_restore_leader_names
+#: Citadel_of_Drand/options.cfg:8
+msgid "Decide whether team leaders get the names of the player or any generated name."
 msgstr ""
 
 #. [scenario]: id=Citadel_of_Drand_1v1
@@ -152,21 +177,21 @@ msgstr ""
 #: Citadel_of_Drand/units/conduits/Attacker.cfg:4
 #: Citadel_of_Drand/utils/event-defs.cfg:268
 #: Citadel_of_Drand/utils/event-defs.cfg:270
-#: Citadel_of_Drand/utils/scenario-utils.cfg:157
-#: Citadel_of_Drand/utils/scenario-utils.cfg:162
+#: Citadel_of_Drand/utils/scenario-utils.cfg:161
+#: Citadel_of_Drand/utils/scenario-utils.cfg:166
 msgid "Attacker Conduit"
 msgstr ""
 
 #. [unit_type]: id=Attacker Conduit, race=mechanical
 #. [unit_type]: id=Defender Conduit, race=mechanical
-#: Citadel_of_Drand/units/conduits/Attacker.cfg:44
-#: Citadel_of_Drand/units/conduits/Defender.cfg:44
+#: Citadel_of_Drand/units/conduits/Attacker.cfg:50
+#: Citadel_of_Drand/units/conduits/Defender.cfg:50
 msgid "This thing is impossible to describe, no one has seen anything like it before."
 msgstr ""
 
 #. [attack]: type=cold
-#: Citadel_of_Drand/units/conduits/Attacker.cfg:50
-#: Citadel_of_Drand/units/conduits/Defender.cfg:50
+#: Citadel_of_Drand/units/conduits/Attacker.cfg:56
+#: Citadel_of_Drand/units/conduits/Defender.cfg:56
 msgid "energy ray"
 msgstr ""
 
@@ -174,7 +199,7 @@ msgstr ""
 #. [label]
 #: Citadel_of_Drand/units/conduits/Defender.cfg:4
 #: Citadel_of_Drand/utils/event-defs.cfg:326
-#: Citadel_of_Drand/utils/scenario-utils.cfg:152
+#: Citadel_of_Drand/utils/scenario-utils.cfg:155
 msgid "Defender Conduit"
 msgstr ""
 
@@ -267,77 +292,156 @@ msgid "Area H"
 msgstr ""
 
 #: Citadel_of_Drand/utils/event-defs.cfg:331
-msgid "Turn 3: Knalgan Alliance"
+msgid ""
+"Turn 03: Knalgan Alliance\n"
+"Turn 07: Undead\n"
+"Turn 11: Dunefolk\n"
+"Turn 15: Northerners\n"
+"Turn 19: Drakes\n"
+"Turn 23: Rebels"
 msgstr ""
 
-#: Citadel_of_Drand/utils/event-defs.cfg:332
-msgid "Turn 7: Undead"
-msgstr ""
-
-#: Citadel_of_Drand/utils/event-defs.cfg:333
-msgid "Turn 11: Dunefolk"
-msgstr ""
-
-#: Citadel_of_Drand/utils/event-defs.cfg:334
-msgid "Turn 15: Northerners"
-msgstr ""
-
-#: Citadel_of_Drand/utils/event-defs.cfg:335
-msgid "Turn 19: Drakes"
-msgstr ""
-
-#: Citadel_of_Drand/utils/event-defs.cfg:336
-msgid "Turn 23: Rebels"
+#. [set_menu_item]: id=MP_PVP_COD_AI_wave_info
+#: Citadel_of_Drand/utils/event-defs.cfg:342
+msgid "Scenario Help"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:914
-#: Citadel_of_Drand/utils/event-defs.cfg:937
-#: Citadel_of_Drand/utils/event-defs.cfg:957
+#: Citadel_of_Drand/utils/event-defs.cfg:350
+msgid "AI Wave Info"
+msgstr ""
+
+#: Citadel_of_Drand/utils/event-defs.cfg:380
+#: Citadel_of_Drand/utils/event-defs.cfg:381
+#: Citadel_of_Drand/utils/event-defs.cfg:382
+#: Citadel_of_Drand/utils/event-defs.cfg:383
+#: Citadel_of_Drand/utils/event-defs.cfg:384
+#: Citadel_of_Drand/utils/event-defs.cfg:385
+#: Citadel_of_Drand/utils/event-defs.cfg:386
+msgid "Point of Interest"
+msgstr ""
+
+#. [transient_message]
 #: Citadel_of_Drand/utils/event-defs.cfg:981
-#: Citadel_of_Drand/utils/event-defs.cfg:1041
-#: Citadel_of_Drand/utils/event-defs.cfg:1081
+#: Citadel_of_Drand/utils/event-defs.cfg:1004
+#: Citadel_of_Drand/utils/event-defs.cfg:1024
+#: Citadel_of_Drand/utils/event-defs.cfg:1048
+#: Citadel_of_Drand/utils/event-defs.cfg:1108
+#: Citadel_of_Drand/utils/event-defs.cfg:1148
 msgid "End Result"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:917
-#: Citadel_of_Drand/utils/event-defs.cfg:940
-#: Citadel_of_Drand/utils/event-defs.cfg:960
-#: Citadel_of_Drand/utils/event-defs.cfg:1044
+#: Citadel_of_Drand/utils/event-defs.cfg:984
+#: Citadel_of_Drand/utils/event-defs.cfg:1007
+#: Citadel_of_Drand/utils/event-defs.cfg:1027
+#: Citadel_of_Drand/utils/event-defs.cfg:1111
 msgid "The Defending Team is victorious!"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:984
-#: Citadel_of_Drand/utils/event-defs.cfg:1084
+#: Citadel_of_Drand/utils/event-defs.cfg:1051
+#: Citadel_of_Drand/utils/event-defs.cfg:1151
 msgid "The Attacking Team is victorious!"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1011
+#: Citadel_of_Drand/utils/event-defs.cfg:1078
 msgid "Update"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1014
+#: Citadel_of_Drand/utils/event-defs.cfg:1081
 msgid "Attacker Conduits are now exposed!"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1033
-#: Citadel_of_Drand/utils/event-defs.cfg:1073
+#: Citadel_of_Drand/utils/event-defs.cfg:1100
+#: Citadel_of_Drand/utils/event-defs.cfg:1140
 msgid "Updates"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1036
+#: Citadel_of_Drand/utils/event-defs.cfg:1103
 msgid "One of the Attacking Commanders has fallen!"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1076
+#: Citadel_of_Drand/utils/event-defs.cfg:1143
 msgid "One of the Defending Commanders has fallen!"
+msgstr ""
+
+#: Citadel_of_Drand/utils/items.cfg:7
+#: Citadel_of_Drand/utils/items.cfg:26
+#: Citadel_of_Drand/utils/items.cfg:84
+msgid "$unit.name finds a pretty ring. Should $unit.name pick it up?"
+msgstr ""
+
+#: Citadel_of_Drand/utils/items.cfg:8
+#: Citadel_of_Drand/utils/items.cfg:27
+#: Citadel_of_Drand/utils/items.cfg:85
+msgid "ring_hp^Take it"
+msgstr ""
+
+#: Citadel_of_Drand/utils/items.cfg:9
+#: Citadel_of_Drand/utils/items.cfg:28
+#: Citadel_of_Drand/utils/items.cfg:86
+msgid "ring_hp^Leave it"
+msgstr ""
+
+#: Citadel_of_Drand/utils/items.cfg:10
+#: Citadel_of_Drand/utils/items.cfg:29
+#: Citadel_of_Drand/utils/items.cfg:48
+#: Citadel_of_Drand/utils/items.cfg:67
+#: Citadel_of_Drand/utils/items.cfg:87
+#: Citadel_of_Drand/utils/items.cfg:106
+msgid "Only attacker side units can take this item!"
+msgstr ""
+
+#. [object]
+#: Citadel_of_Drand/utils/items.cfg:12
+#: Citadel_of_Drand/utils/items.cfg:31
+#: Citadel_of_Drand/utils/items.cfg:89
+msgid "Ring of HP"
+msgstr ""
+
+#. [object]
+#: Citadel_of_Drand/utils/items.cfg:14
+#: Citadel_of_Drand/utils/items.cfg:33
+#: Citadel_of_Drand/utils/items.cfg:91
+msgid "This ring grants the wearer +10 max hp for the current scenario!"
+msgstr ""
+
+#: Citadel_of_Drand/utils/items.cfg:45
+#: Citadel_of_Drand/utils/items.cfg:64
+#: Citadel_of_Drand/utils/items.cfg:103
+msgid "$unit.name finds a reddish orb. Should $unit.name pick it up?"
+msgstr ""
+
+#: Citadel_of_Drand/utils/items.cfg:46
+#: Citadel_of_Drand/utils/items.cfg:65
+#: Citadel_of_Drand/utils/items.cfg:104
+msgid "ball_power^Take it"
+msgstr ""
+
+#: Citadel_of_Drand/utils/items.cfg:47
+#: Citadel_of_Drand/utils/items.cfg:66
+#: Citadel_of_Drand/utils/items.cfg:105
+msgid "ball_power^Leave it"
+msgstr ""
+
+#. [object]
+#: Citadel_of_Drand/utils/items.cfg:50
+#: Citadel_of_Drand/utils/items.cfg:69
+#: Citadel_of_Drand/utils/items.cfg:108
+msgid "Orb of Power"
+msgstr ""
+
+#. [object]
+#: Citadel_of_Drand/utils/items.cfg:52
+#: Citadel_of_Drand/utils/items.cfg:71
+#: Citadel_of_Drand/utils/items.cfg:110
+msgid "This orb grants the wearer +2 attack damage for the current scenario!"
 msgstr ""
 
 #. [objective]: condition=win
@@ -390,6 +494,12 @@ msgstr ""
 msgid "Send your units to battle using Tunnels labelled as Areas"
 msgstr ""
 
+#. [note]
+#: Citadel_of_Drand/utils/scenario-utils.cfg:63
+#: Citadel_of_Drand/utils/scenario-utils.cfg:108
+msgid "Shops and Limited Special Items Available"
+msgstr ""
+
 #. [objective]: condition=win
 #: Citadel_of_Drand/utils/scenario-utils.cfg:77
 msgid "Defend your Team's Conduit (21,21)"
@@ -428,6 +538,55 @@ msgstr ""
 #. [note]
 #: Citadel_of_Drand/utils/scenario-utils.cfg:105
 msgid "Capturing certain villages might give you AI allies."
+msgstr ""
+
+#. [option]
+#: Citadel_of_Drand/utils/shop-macros.cfg:36
+msgid "Done"
+msgstr ""
+
+#. [option]
+#: Citadel_of_Drand/utils/shop-macros.cfg:76
+#: Citadel_of_Drand/utils/shop-macros.cfg:134
+msgid "x$item_{ID}_amount"
+msgstr ""
+
+#. [option]
+#: Citadel_of_Drand/utils/shop-macros.cfg:77
+msgid ""
+"<span color='green'>{NAME}</span>\n"
+"<span size='small'>{DESCRIPTION}</span>\n"
+"<span size='small'>Cost: {COST}g</span>"
+msgstr ""
+
+#. [command]
+#: Citadel_of_Drand/utils/shop-macros.cfg:128
+msgid "Thank you, come again!"
+msgstr ""
+
+#. [option]
+#: Citadel_of_Drand/utils/shop-macros.cfg:135
+msgid ""
+"<span color='red'>{NAME}</span>\n"
+"<span size='small'>{DESCRIPTION}</span>\n"
+"<span size='small'>Cost: {COST}g</span>"
+msgstr ""
+
+#. [command]
+#: Citadel_of_Drand/utils/shop-macros.cfg:156
+msgid "I'd like to give you a deal, but business is business!"
+msgstr ""
+
+#. [event]
+#: Citadel_of_Drand/utils/shop-macros.cfg:174
+#: Citadel_of_Drand/utils/shop-macros.cfg:289
+msgid "What will it be?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Citadel_of_Drand/utils/shop-macros.cfg:179
+#: Citadel_of_Drand/utils/shop-macros.cfg:294
+msgid "$shopkeeper_comment"
 msgstr ""
 
 #. [side]

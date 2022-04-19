@@ -4,6 +4,7 @@ current version: 1.0.5
 
 version 1.0.5
 --> add option choice to get generated name for the leader or restore to player name
+--> update POT file
 
 version 1.0.4
 --> added shops for attackers
