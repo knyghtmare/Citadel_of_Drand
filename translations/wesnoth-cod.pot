@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-04-19 01:03 UTC\n"
+"POT-Creation-Date: 2022-04-19 01:25 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -322,52 +322,52 @@ msgid "Point of Interest"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:981
-#: Citadel_of_Drand/utils/event-defs.cfg:1004
-#: Citadel_of_Drand/utils/event-defs.cfg:1024
-#: Citadel_of_Drand/utils/event-defs.cfg:1048
-#: Citadel_of_Drand/utils/event-defs.cfg:1108
-#: Citadel_of_Drand/utils/event-defs.cfg:1148
+#: Citadel_of_Drand/utils/event-defs.cfg:986
+#: Citadel_of_Drand/utils/event-defs.cfg:1009
+#: Citadel_of_Drand/utils/event-defs.cfg:1029
+#: Citadel_of_Drand/utils/event-defs.cfg:1053
+#: Citadel_of_Drand/utils/event-defs.cfg:1113
+#: Citadel_of_Drand/utils/event-defs.cfg:1153
 msgid "End Result"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:984
-#: Citadel_of_Drand/utils/event-defs.cfg:1007
-#: Citadel_of_Drand/utils/event-defs.cfg:1027
-#: Citadel_of_Drand/utils/event-defs.cfg:1111
+#: Citadel_of_Drand/utils/event-defs.cfg:989
+#: Citadel_of_Drand/utils/event-defs.cfg:1012
+#: Citadel_of_Drand/utils/event-defs.cfg:1032
+#: Citadel_of_Drand/utils/event-defs.cfg:1116
 msgid "The Defending Team is victorious!"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1051
-#: Citadel_of_Drand/utils/event-defs.cfg:1151
+#: Citadel_of_Drand/utils/event-defs.cfg:1056
+#: Citadel_of_Drand/utils/event-defs.cfg:1156
 msgid "The Attacking Team is victorious!"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1078
+#: Citadel_of_Drand/utils/event-defs.cfg:1083
 msgid "Update"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1081
+#: Citadel_of_Drand/utils/event-defs.cfg:1086
 msgid "Attacker Conduits are now exposed!"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1100
-#: Citadel_of_Drand/utils/event-defs.cfg:1140
+#: Citadel_of_Drand/utils/event-defs.cfg:1105
+#: Citadel_of_Drand/utils/event-defs.cfg:1145
 msgid "Updates"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1103
+#: Citadel_of_Drand/utils/event-defs.cfg:1108
 msgid "One of the Attacking Commanders has fallen!"
 msgstr ""
 
 #. [transient_message]
-#: Citadel_of_Drand/utils/event-defs.cfg:1143
+#: Citadel_of_Drand/utils/event-defs.cfg:1148
 msgid "One of the Defending Commanders has fallen!"
 msgstr ""
 
