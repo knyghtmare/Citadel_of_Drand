@@ -1,6 +1,9 @@
 Changelog
 
-current version: 1.0.6
+current version: 1.0.7
+
+version 1.0.7
+--> fixed the broken "<span>" in description
 
 version 1.0.6
 --> adjust MP settings to allow 4MP leaders to get the quick trait
