@@ -3,6 +3,8 @@ Changelog
 current version: 1.0.8
 
 --> fix the OOS errors due to the multi-target bidirectional [tunnel]s
+    --> I hope I fixed it though. Didn't appear for me when testing this time
+--> allowed gold farming from enemy kills
 --> update two typos in item dialogs
 
 version 1.0.7
